@@ -134,10 +134,6 @@ Dataset source: Kaggle Diamonds Dataset
 Built with Python, Pandas, Scikit-learn, and Plotly
 Inspired by data science and machine learning communities
 
-## Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/diamond-price-analysis
-
 ## If you found this project helpful, please consider giving it a star on GitHub!
 ## Troubleshooting
 Common Issues
